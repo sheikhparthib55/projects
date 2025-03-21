@@ -1,4 +1,5 @@
 x = "Python"
 y = "is"
 z = "awesome"
-print(x, y, z)
+v="ahmed"
+print(x, y, z,v)
